@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145079297026",
+    "firebase_url": "https://sabzz-bazzar.firebaseio.com",
+    "project_id": "sabzz-bazzar",
+    "storage_bucket": "sabzz-bazzar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145079297026:android:0c0264b1a14d845065331b",
+        "android_client_info": {
+          "package_name": "com.app.sabzz_bazzar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145079297026-3mfkq6dadvfc652cmther7e0ns45aojd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.sabzz_bazzar",
+            "certificate_hash": "3711137ea24ee76e33b029c653281c201baf801d"
+          }
+        },
+        {
+          "client_id": "145079297026-ivr0eefelm55qo5k00q3v72ui7mc5h67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYw_8Wejm717L9UwhvMR9dI8xaOVbKSFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145079297026-ivr0eefelm55qo5k00q3v72ui7mc5h67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
